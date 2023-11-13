@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasciur&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # Stack Overflow Stats:
-![](https://stackoverflow-card.vercel.app/?userID=19580991&theme=solarizeddark)
+![](https://stackoverflow-card.vercel.app/?userID=19580991&theme=tomorrownightbright)
 
 # Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/eliasciur)
